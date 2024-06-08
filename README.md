@@ -1,5 +1,6 @@
 # Art-gallery
 ArtSea is website that is used to demonstrate the use of flask using MongoDB. Here the Technologies mainly used are HTML, CSS, Flask, MongoDB.
+
 **Pages in ArtSea**
 Home Page, Shop Page, Cart Page, Checkout, Backend(Built using MongoDB)
 ![Screenshot (274)](https://github.com/lalitha0702/Art-gallery/assets/152622202/cecf0423-2d5a-4a23-982a-573308bc1bcd)
